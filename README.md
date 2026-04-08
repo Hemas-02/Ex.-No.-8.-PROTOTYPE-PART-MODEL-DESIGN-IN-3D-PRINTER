@@ -1,57 +1,46 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 17-04-2025
+### DATE: 29/04/2025
+
 ## AIM: 
-### To prototype the given part model design in 3D Printer.
+### To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
-### ●	3D Printer machine.
-### ●	CURA 4.0 Software.
-### ●	Autodesk Fusion 360 Software.
-### ●	System - Windows 7 or higher, 1 GB RAM.
+### ●	CURA 4.0 Software
+### ●	 Autodesk Fusion 360
+### ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
+### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
+### Step 3.:- Save the file and export as .stl
+### Step 4.:- Check all Electrical connections in the 3D printer.
+### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
+### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+### Step 8.:- select the Scale option for design scale according to build tack plate area and then
+### after click the start option and select printing option standard as shown in below figure.
+### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+### Step 10.:- After generate the gcode format then follow the these instruction 
+  ###   ●	Switch on the 3d printer.
+  ###   ●	Place your Pen drive in USB.
+  ###   ●	Clean your surface bed plate.
+  ###   ●	Load your filament into the required extruder as per the requirement.
+  ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
+  ###   ●	Close the doors of the 3d printer.
+  ###   ●	Open the file from the USB storage and select the Print option.
 
-### Step 1:- Check all Electrical connections.
+## Input:
 
-### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
+![image](https://github.com/user-attachments/assets/df3dfe67-009b-4ac2-a2c1-e119e0a133a6)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
+### Output:
 
-### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
-
-### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
-
-### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
-
-### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
-
-### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
-###   1.	Switch on the 3d printer.
-###   2.	Place your Pen drive in USB.
-###   3.	Clean the surface bed plate.
-###   4.	Load filament into the required extruder as per the requirement.
-###   5.	Wait until the nozzle & bed plate comes into the required temperature.
-###   6.	Close the doors of the 3d printer.
-###   7.	Open the file from the USB storage and select the Print option.
-
-## Output:
-
-![Screenshot 2025-04-17 162300](https://github.com/user-attachments/assets/25abd7f3-addb-47bc-89b2-e04d0e9ef655)
-![Screenshot 2025-04-17 162651](https://github.com/user-attachments/assets/3d0d861e-7698-41b3-8c19-777b9137304a)
+![image](https://github.com/user-attachments/assets/d16e6ccb-1b08-4a77-8984-f330d0cb3049)
 
 ### Name: HEMALATHA R
 ### Register Number: 212224040114
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
